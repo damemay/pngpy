@@ -1,6 +1,9 @@
 # pngpy
 Simple libpng image writing interface for python
 
+## install
+`python -m pip install pngpy`
+
 ## usage sample
 
 ```python
