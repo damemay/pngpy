@@ -1,0 +1,7 @@
+__pycache__/
+*.ppm
+*.png
+test.py
+*.so
+dist/
+*.egg-info
